@@ -1,0 +1,1069 @@
+# Blender MTL File: 'cs470-hw2.blend'
+# Material Count: 97
+
+newmtl Leaves.001
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.008
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.009
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.011
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.012
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.013
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.014
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.015
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.016
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.017
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.018
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.019
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.020
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.021
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.022
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.023
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.024
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.025
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.026
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.027
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.028
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.029
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.030
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.031
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.032
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.033
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.034
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.035
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.036
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.037
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.038
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.039
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.040
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.041
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.042
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.043
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.044
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.045
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.046
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.047
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.048
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.049
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.050
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.051
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.052
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.053
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.054
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.055
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Leaves.056
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Trunk
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.008
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.009
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.010
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.011
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.012
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.013
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.014
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.015
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.016
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.017
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.018
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.019
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.020
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.021
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.022
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.023
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.024
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.025
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.026
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.028
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.029
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.030
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.031
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.032
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.033
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.034
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.035
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.036
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.037
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.038
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.039
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.040
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.041
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.042
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.043
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.044
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.045
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.046
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.047
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.048
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.049
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.050
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.051
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.052
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.053
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.054
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
+
+newmtl Trunk.055
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg

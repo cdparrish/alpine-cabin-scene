@@ -1,0 +1,24 @@
+# Blender MTL File: 'cs470-hw2.blend'
+# Material Count: 2
+
+newmtl Leaves.007
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\Christmas-tree-pattern-seamless-vectors-01.jpg
+
+newmtl Trunk.007
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\carte\\Desktop\\CS 470\\cs470project\\textures\\bark-1517215_960_720.jpg
